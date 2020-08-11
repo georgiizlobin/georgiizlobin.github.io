@@ -4,9 +4,13 @@ title: >-
   Почему бесплатная работа это плохо или как я наделал ошибок с моим первым
   заказчиком.
 date: '2020-08-11 18:25:27 +0200'
-categories: webdesign mistakes
+categories: null
 published: true
+tags: ''
 ---
+
+![maxim-ilyahov-Fk0dWqWX4d0-unsplash.jpg]({{site.baseurl}}/media/maxim-ilyahov-Fk0dWqWX4d0-unsplash.jpg)
+
 
 В начале 2018 года я продал свою долю в ресторанном бизнесе и вложился в обучение веб дизайна и маркетинга.
 
