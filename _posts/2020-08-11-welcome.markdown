@@ -9,7 +9,7 @@ published: true
 tags: ''
 ---
 
-![maxim-ilyahov-Fk0dWqWX4d0-unsplash.jpg]({{site.baseurl}}/media/maxim-ilyahov-Fk0dWqWX4d0-unsplash.jpg)
+![sea]({{site.baseurl}}/media/stephen-crowley-eh3kB7wAJgs-unsplash-2.jpg)
 
 
 В начале 2018 года я продал свою долю в ресторанном бизнесе и вложился в обучение веб дизайна и маркетинга.
